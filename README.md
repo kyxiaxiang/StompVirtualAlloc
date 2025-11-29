@@ -459,6 +459,7 @@ StompVirtualAlloc 配合 PIC：
 │  NtProtectVirtualMemory (来自 ntdll.dll)        │
 └─────────────────────────────────────────────────┘
 ```
+<img width="1783" height="705" alt="image" src="https://github.com/user-attachments/assets/8541723a-0e9c-4379-a87b-5e6f8c4e9ab8" />
 
 ### 候选 DLL
 
